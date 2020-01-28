@@ -1,0 +1,25 @@
+./pre_img\Shahrukh Khan\ActiOn_21.png
+./pre_img\Surya\IMG-20180703-WA0016.png 285 387 450 606
+./pre_img\Surya\IMG-20180715-WA0125-01.png 265 325 519 638
+./pre_img\Surya\IMG-20180715-WA0127.png 374 591 641 936
+./pre_img\Surya\IMG-20190418-WA0045.png 211 379 321 503
+./pre_img\Surya\IMG-20190418-WA0057.png 293 439 409 587
+./pre_img\Surya\IMG-20190610-WA0014.png 358 204 524 419
+./pre_img\Surya\IMG-20190917-WA0003.png 155 343 237 442
+./pre_img\Surya\IMG-20190917-WA0006.png 192 424 270 511
+./pre_img\Surya\IMG_20180203_094856.png 944 1232 1418 1779
+./pre_img\Surya\IMG_20180403_104530 (1).png 628 908 1079 1480
+./pre_img\Surya\IMG_20180403_104530.png 628 908 1079 1480
+./pre_img\Surya\IMG_20180404_070953.png 476 1144 955 1732
+./pre_img\Surya\IMG_20180604_123411.png 1325 2121 2335 3389
+./pre_img\Surya\IMG_20180609_124554.png 1662 1015 1673 1029
+./pre_img\Surya\IMG_20180623_170623 (1).png 3272 1861 3837 2593
+./pre_img\Surya\IMG_20180623_170623.png 3272 1861 3837 2593
+./pre_img\Surya\IMG_20180710_071451.png
+./pre_img\Surya\IMG_20180820_213215.png 2040 763 3226 2020
+./pre_img\Surya\IMG_20181212_212846.png 755 615 1463 1343
+./pre_img\Surya\IMG_20190423_140312.png 815 1253 1150 1659
+./pre_img\Surya\IMG_20190824_051202.png 486 1108 809 1482
+./pre_img\Surya\Screenshot_2018-03-03-09-51-50-395_com.miui.gallery (1).png 116 694 822 1513
+./pre_img\Surya\Screenshot_2018-03-03-09-51-50-395_com.miui.gallery.png 116 694 822 1513
+./pre_img\Surya\Snapchat-1098986333.png 31 148 535 847

@@ -1,0 +1,4 @@
+./pre_img\Amit\IMG_20191020_132313.png
+./pre_img\Amit\IMG_20191020_132314.png
+./pre_img\Amit\IMG_20191020_132315.png 852 175 2049 1589
+./pre_img\Amit\IMG_20191020_132318.png 677 499 1862 1921

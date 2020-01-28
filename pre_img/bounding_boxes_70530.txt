@@ -1,0 +1,19 @@
+./pre_img\Amruth\IMG_20190807_133849.png
+./pre_img\Amruth\IMG_20190810_015649.png
+./pre_img\Amruth\IMG_20190818_190159.png
+./pre_img\Amruth\IMG_20190908_152503.png
+./pre_img\Amruth\IMG_20191020_204225.png
+./pre_img\Amruth\IMG_20191020_204301.png
+./pre_img\Amruth\IMG_20191021_001341.png
+./pre_img\Amruth\IMG_20191021_001356.png
+./pre_img\Manasa\IMG-20191022-WA0002.png 240 133 661 662
+./pre_img\Manasa\IMG-20191022-WA0003.png 249 127 523 505
+./pre_img\Manasa\IMG-20191022-WA0004.png 293 117 478 343
+./pre_img\Manasa\IMG-20191022-WA0005.png 393 333 547 525
+./pre_img\Manasa\IMG-20191022-WA0006.png 238 103 658 672
+./pre_img\Manasa\IMG-20191022-WA0007.png 437 421 567 584
+./pre_img\Manasa\IMG-20191022-WA0008.png 310 43 655 531
+./pre_img\Manasa\IMG-20191022-WA0009.png 339 49 717 537
+./pre_img\Manasa\IMG-20191022-WA0010.png 460 399 588 565
+./pre_img\Manasa\IMG-20191022-WA0011.png 261 210 579 595
+./pre_img\Manasa\IMG-20191022-WA0012.png 271 25 667 541

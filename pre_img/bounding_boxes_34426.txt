@@ -1,0 +1,36 @@
+./pre_img\Amit\WIN_20191020_18_35_23_Pro.png 533 279 737 539
+./pre_img\Amit\WIN_20191020_18_35_24_Pro.png 516 271 719 526
+./pre_img\Amit\WIN_20191020_18_35_25_Pro.png 564 284 757 515
+./pre_img\Amit\WIN_20191020_18_35_26_Pro.png 545 289 737 552
+./pre_img\Amit\WIN_20191020_18_35_27_Pro.png 505 293 698 541
+./pre_img\Amit\WIN_20191020_18_35_29_Pro.png 545 285 745 545
+./pre_img\Amit\WIN_20191020_18_35_30_Pro (2).png 542 294 739 546
+./pre_img\Amit\WIN_20191020_18_35_30_Pro.png 541 284 735 531
+./pre_img\Amit\WIN_20191020_18_35_31_Pro (2).png 544 279 747 529
+./pre_img\Amit\WIN_20191020_18_35_31_Pro.png 538 283 744 548
+./pre_img\Amit\WIN_20191020_18_35_32_Pro (2).png 537 272 742 538
+./pre_img\Amit\WIN_20191020_18_35_32_Pro (3).png 534 292 728 555
+./pre_img\Amit\WIN_20191020_18_35_32_Pro.png 545 274 751 532
+./pre_img\Amit\WIN_20191020_18_35_33_Pro (2).png 516 288 713 547
+./pre_img\Amit\WIN_20191020_18_35_33_Pro.png 515 282 715 555
+./pre_img\Amit\WIN_20191020_18_35_34_Pro.png 551 316 750 556
+./pre_img\Amit\WIN_20191020_18_35_36_Pro.png 550 293 738 521
+./pre_img\Amit\WIN_20191020_18_35_37_Pro (2).png 559 279 756 524
+./pre_img\Amit\WIN_20191020_18_35_37_Pro (3).png 552 281 751 519
+./pre_img\Amit\WIN_20191020_18_35_37_Pro.png 561 288 759 525
+./pre_img\Amit\WIN_20191020_18_35_38_Pro (2).png 549 282 746 520
+./pre_img\Amit\WIN_20191020_18_35_38_Pro.png 555 281 754 522
+./pre_img\Amit\WIN_20191020_18_35_39_Pro (2).png 523 281 716 532
+./pre_img\Amit\WIN_20191020_18_35_39_Pro.png 539 285 730 523
+./pre_img\Amit\WIN_20191020_18_35_40_Pro (2).png 567 290 763 527
+./pre_img\Amit\WIN_20191020_18_35_40_Pro.png 514 280 707 522
+./pre_img\Amit\WIN_20191020_18_35_41_Pro (2).png 606 287 785 506
+./pre_img\Amit\WIN_20191020_18_35_41_Pro.png 609 295 801 523
+./pre_img\Amit\WIN_20191020_18_35_42_Pro (2).png 565 265 747 463
+./pre_img\Amit\WIN_20191020_18_35_42_Pro.png 561 261 754 475
+./pre_img\Amit\WIN_20191020_18_35_43_Pro (2).png 537 336 743 598
+./pre_img\Amit\WIN_20191020_18_35_43_Pro.png 539 326 739 582
+./pre_img\Amit\WIN_20191020_18_35_44_Pro.png 541 327 756 599
+./pre_img\Amit\WIN_20191020_18_35_45_Pro (2).png 517 287 710 539
+./pre_img\Amit\WIN_20191020_18_35_45_Pro.png 520 281 713 531
+./pre_img\Shahrukh Khan\ActiOn_21.png

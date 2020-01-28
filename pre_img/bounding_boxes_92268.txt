@@ -1,0 +1,12 @@
+./pre_img\Amruth\IMG_20190810_015649.png
+./pre_img\Amruth\IMG_20191020_204301.png
+./pre_img\Manasa\IMG-20191022-WA0015.png
+./pre_img\Manasa\IMG-20191022-WA0023.png 312 335 468 553
+./pre_img\Manasa\IMG-20191022-WA0024.png 518 430 625 585
+./pre_img\Manasa\IMG-20191022-WA0026.png 205 174 551 625
+./pre_img\Manasa\IMG-20191022-WA0028.png 504 423 632 594
+./pre_img\Manasa\IMG-20191022-WA0029.png 287 198 598 545
+./pre_img\Manasa\IMG-20191022-WA0030.png 270 102 632 572
+./pre_img\Manasa\IMG-20191022-WA0031.png 180 309 485 687
+./pre_img\Shahrukh Khan\ActiOn_21.png
+./pre_img\Surya\IMG_20180710_071451.png

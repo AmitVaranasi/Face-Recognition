@@ -1,0 +1,33 @@
+./pre_img\Amruth\IMG-20170517-WA0000.png 477 328 607 488
+./pre_img\Amruth\IMG_20170920_204505.png 177 33 244 120
+./pre_img\Amruth\IMG_20170929_114625.png 268 288 803 1036
+./pre_img\Amruth\IMG_20181010_205211.png 150 241 498 713
+./pre_img\Amruth\IMG_20181112_162115.png 151 152 310 355
+./pre_img\Amruth\IMG_20181214_014526.png 77 112 139 195
+./pre_img\Amruth\IMG_20190131_122620.png 199 49 371 255
+./pre_img\Amruth\IMG_20190131_123130.png 409 175 659 482
+./pre_img\Amruth\IMG_20190321_224745.png 375 196 493 346
+./pre_img\Amruth\IMG_20190707_023956.png 1466 815 1499 858
+./pre_img\Amruth\IMG_20190715_150753.png 1625 100 3328 1784
+./pre_img\Amruth\IMG_20190806_000344.png 730 625 2154 2267
+./pre_img\Amruth\IMG_20190807_133849.png
+./pre_img\Amruth\IMG_20190810_015649.png
+./pre_img\Amruth\IMG_20190816_134511.png 738 2646 757 2672
+./pre_img\Amruth\IMG_20190818_190159.png
+./pre_img\Amruth\IMG_20190908_152503.png
+./pre_img\Amruth\IMG_20190908_152644.png 1826 1548 1918 1683
+./pre_img\Amruth\IMG_20190908_152701.png 1694 1320 1754 1413
+./pre_img\Amruth\IMG_20190908_154439.png 727 1632 1240 2334
+./pre_img\Amruth\IMG_20190908_161216.png 2022 1230 2216 1463
+./pre_img\Amruth\IMG_20190908_224557.png 1837 1099 2099 1439
+./pre_img\Amruth\IMG_20190909_142510.png 871 1087 1544 1977
+./pre_img\Amruth\IMG_20191002_162017.png 511 1274 2558 3436
+./pre_img\Amruth\IMG_20191005_224701.png 674 2006 917 2287
+./pre_img\Amruth\IMG_20191020_204225.png
+./pre_img\Amruth\IMG_20191020_204301.png
+./pre_img\Amruth\IMG_20191021_001341.png
+./pre_img\Amruth\IMG_20191021_001356.png
+./pre_img\Amruth\IMG_20191021_001358.png 1224 626 3122 2667
+./pre_img\Amruth\IMG_20191021_001359.png 1037 1165 1962 2273
+./pre_img\Shahrukh Khan\ActiOn_21.png
+./pre_img\Surya\IMG_20180710_071451.png
