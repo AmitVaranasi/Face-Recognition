@@ -29,7 +29,7 @@ from __future__ import print_function
 from six import string_types, iteritems
 
 import numpy as np
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 #from math import floor
 import cv2
 import os
@@ -82,7 +82,7 @@ class Network(object):
         session: The current TensorFlow session
         ignore_missing: If true, serialized weights for missing layers are ignored.
         '''
-        data_dict = np.load(data_path, encoding='latin1').item() #pylint: disable=no-member
+        data_dict = np.load(data_path, encoding='latin1',allow_pickle=True).item() #pylint: disable=no-member
 
         for op_name in data_dict:
             with tf.variable_scope(op_name, reuse=True):
@@ -191,7 +191,7 @@ class Network(object):
                     dim *= int(d)
                 feed_in = tf.reshape(inp, [-1, dim])
             else:
-                feed_in, dim = (inp, input_shape[-1].value)
+                feed_in, dim = (inp, input_shape[-1])
             weights = self.make_var('weights', shape=[dim, num_out])
             biases = self.make_var('biases', [num_out])
             op = tf.nn.relu_layer if relu else tf.nn.xw_plus_b

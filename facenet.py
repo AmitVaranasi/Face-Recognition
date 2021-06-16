@@ -28,8 +28,9 @@ from __future__ import division
 from __future__ import print_function
 
 import os
+import cv2
 from subprocess import Popen, PIPE
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from tensorflow.python.framework import ops
 import numpy as np
 from scipy import misc
@@ -255,7 +256,7 @@ def load_data(image_paths, do_random_crop, do_random_flip, image_size, do_prewhi
     nrof_samples = len(image_paths)
     images = np.zeros((nrof_samples, image_size, image_size, 3))
     for i in range(nrof_samples):
-        img = misc.imread(image_paths[i])
+        img = cv2.imread(image_paths[i])
         if img.ndim == 2:
             img = to_rgb(img)
         if do_prewhiten:

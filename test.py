@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from scipy import misc
 import cv2
 import numpy as np
@@ -95,7 +95,7 @@ with tf.Graph().as_default():
 
                         cropped.append(frame[bb[i][1]:bb[i][3], bb[i][0]:bb[i][2], :])
                         cropped[i] = facenet.flip(cropped[i], False)
-                        scaled.append(misc.imresize(cropped[i], (image_size, image_size), interp='bilinear'))
+                        scaled.append(cv2.resize(cropped[i], (image_size, image_size)))
                         scaled[i] = cv2.resize(scaled[i], (input_image_size,input_image_size),
                                                interpolation=cv2.INTER_CUBIC)
                         scaled[i] = facenet.prewhiten(scaled[i])
@@ -119,8 +119,13 @@ with tf.Graph().as_default():
                             print('Result Indices: ', best_class_indices[0])
                             print(HumanNames)
                             for H_i in HumanNames:
-                                if HumanNames[best_class_indices[0]] == H_i:
-                                    result_names = HumanNames[best_class_indices[0]]
+                                print(best_class_indices)
+                                print(best_class_indices[0])
+                                print(H_i)
+                                
+                
+                                if HumanNames[best_class_indices[0]-1] == H_i:
+                                    result_names = HumanNames[best_class_indices[0]-1]
                                     cv2.putText(frame, result_names, (text_x, text_y), cv2.FONT_HERSHEY_COMPLEX_SMALL,
                                                 1, (0, 0, 255), thickness=1, lineType=2)
                 else:

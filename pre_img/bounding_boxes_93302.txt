@@ -1,0 +1,19 @@
+./pre_img\Akshay Kumar\ActiOn_25.png 158 200 539 686
+./pre_img\Salman Khan\ActiOn_27.png 280 73 411 240
+./pre_img\Salman Khan\ActiOn_6.png 73 42 129 117
+./pre_img\Shahrukh Khan\ActiOn_21.png
+./pre_img\Shahrukh Khan\ActiOn_6.png 364 117 514 304
+./pre_img\Sunil Shetty\ActiOn_9.png 140 39 231 152
+./pre_img\chetan\IMG_20191211_192552.png
+./pre_img\chetan\Snapchat-1336197563.png
+./pre_img\chetan\Snapchat-1420664880.png
+./pre_img\chetan\Snapchat-1601512778.png 70 221 381 614
+./pre_img\chetan\Snapchat-1804948957.png
+./pre_img\chetan\Snapchat-19845258.png
+./pre_img\chetan\Snapchat-2066059366.png 217 311 474 639
+./pre_img\chetan\Snapchat-327933593.png 284 505 325 551
+./pre_img\chetan\Snapchat-377337394.png 45 160 456 703
+./pre_img\chetan\Snapchat-512581777.png 180 366 530 815
+./pre_img\chetan\Snapchat-565661827.png 68 273 473 791
+./pre_img\chetan\Snapchat-71042903.png
+./pre_img\chetan\Snapchat-877215610.png 155 97 570 635

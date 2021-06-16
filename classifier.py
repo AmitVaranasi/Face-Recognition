@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import numpy as np
 import facenet
 import os
@@ -42,12 +42,15 @@ class training:
                     paths_batch = path[start_index:end_index]
                     images = facenet.load_data(paths_batch, False, False, image_size)
                     feed_dict = {images_placeholder: images, phase_train_placeholder: False}
+                    print('printing')
+                    print(sess.run(embeddings, feed_dict=feed_dict))
                     emb_array[start_index:end_index, :] = sess.run(embeddings, feed_dict=feed_dict)
 
                 classifier_file_name = os.path.expanduser(self.classifier_filename)
 
                 # Training Started
                 print('Training Started')
+                print(emb_array)
                 model = SVC(kernel='linear', probability=True)
                 model.fit(emb_array, label)
 

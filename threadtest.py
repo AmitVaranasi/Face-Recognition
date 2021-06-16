@@ -1,6 +1,6 @@
 from __future__ import division
 from __future__ import print_function
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from scipy import misc
 import cv2
 import numpy as np
@@ -34,6 +34,7 @@ modeldir = './model/20170511-185253.pb'
 classifier_filename = './class/classifier.pkl'
 npy='./npy'
 train_img="./train_img"
+
 
 
 class camThread(threading.Thread):
@@ -139,7 +140,7 @@ def camPreview(previewName, camID):
 
                             cropped.append(frame[bb[i][1]:bb[i][3], bb[i][0]:bb[i][2], :])
                             cropped[i] = facenet.flip(cropped[i], False)
-                            scaled.append(misc.imresize(cropped[i], (image_size, image_size), interp='bilinear'))
+                            scaled.append(cv2.resize(cropped[i], (image_size, image_size)))
                             scaled[i] = cv2.resize(scaled[i], (input_image_size,input_image_size),
                                                    interpolation=cv2.INTER_CUBIC)
                             scaled[i] = facenet.prewhiten(scaled[i])
@@ -192,6 +193,7 @@ def camPreview(previewName, camID):
     cv2.destroyWindow(previewName)
 
 # Create two threads as follows
+
 thread1 = camThread("Camera 1", 0)
 thread2 = camThread("Camera 2", "a.mp4")
 thread1.start()

@@ -1,0 +1,24 @@
+./pre_img\Shahrukh Khan\ActiOn_21.png
+./pre_img\chetan\IMG_20191211_192552.png
+./pre_img\chetan\Snapchat-1336197563.png
+./pre_img\chetan\Snapchat-1420664880.png
+./pre_img\chetan\Snapchat-1804948957.png
+./pre_img\chetan\Snapchat-19845258.png
+./pre_img\chetan\Snapchat-71042903.png
+./pre_img\venkat\IMG_0348.png 2357 837 2936 1509
+./pre_img\venkat\IMG_20190121_181902.png 2738 3108 2767 3138
+./pre_img\venkat\IMG_20190121_181917.png 748 706 2411 2759
+./pre_img\venkat\IMG_20190121_181925.png
+./pre_img\venkat\IMG_20190121_181928.png 1040 760 2620 2734
+./pre_img\venkat\IMG_20190121_181930.png 1030 480 2566 2329
+./pre_img\venkat\IMG_20190309_201133.png 1349 562 2434 1834
+./pre_img\venkat\IMG_20190410_160437.png 2130 713 2766 1468
+./pre_img\venkat\IMG_20190410_160449_Bokeh.png 2193 779 2796 1585
+./pre_img\venkat\IMG_20190711_122403_Bokeh.png 1285 486 1596 889
+./pre_img\venkat\IMG_20191016_074658.png
+./pre_img\venkat\IMG_20191016_074700_01.png
+./pre_img\venkat\IMG_20191212_175537.png 2245 2417 2291 2466
+./pre_img\venkat\IMG_20191212_175610.png 1539 1020 2127 1750
+./pre_img\venkat\IMG_8803.png
+./pre_img\venkat\IMG_8819.png 288 2442 425 2606
+./pre_img\venkat\IMG_8850.png 825 1965 1326 2560

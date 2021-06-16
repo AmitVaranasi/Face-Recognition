@@ -2,8 +2,10 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 from scipy import misc
+import cv2
 import os
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+from matplotlib.pyplot import imread,imsave
 import numpy as np
 import facenet
 import detect_face
@@ -49,7 +51,7 @@ class preprocesses:
                     print("Image: %s" % image_path)
                     if not os.path.exists(output_filename):
                         try:
-                            img = misc.imread(image_path)
+                            img = cv2.imread(image_path)
                         except (IOError, ValueError, IndexError) as e:
                             errorMessage = '{}: {}'.format(image_path, e)
                             print(errorMessage)
@@ -88,10 +90,10 @@ class preprocesses:
                                 bb_temp[3] = det[3]
 
                                 cropped_temp = img[bb_temp[1]:bb_temp[3], bb_temp[0]:bb_temp[2], :]
-                                scaled_temp = misc.imresize(cropped_temp, (image_size, image_size), interp='bilinear')
+                                scaled_temp = cv2.resize(cropped_temp, (image_size, image_size))
 
                                 nrof_successfully_aligned += 1
-                                misc.imsave(output_filename, scaled_temp)
+                                imsave(output_filename, scaled_temp)
                                 text_file.write('%s %d %d %d %d\n' % (
                                 output_filename, bb_temp[0], bb_temp[1], bb_temp[2], bb_temp[3]))
                             else:
